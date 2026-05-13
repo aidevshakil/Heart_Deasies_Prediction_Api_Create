@@ -1,0 +1,28 @@
+{
+    "model_name": "LogisticRegression",
+    "timestamp": "20250311_150614",
+    "metrics": {
+        "Accuracy": 0.5217391304347826,
+        "Precision": 0.4178723358439645,
+        "Recall": 0.5217391304347826,
+        "ROC AUC": 0.7768775323686016
+    },
+    "features": [
+        "age",
+        "sex",
+        "dataset",
+        "cp",
+        "trestbps",
+        "chol",
+        "fbs",
+        "restecg",
+        "thalch",
+        "exang",
+        "oldpeak",
+        "slope",
+        "ca",
+        "thal"
+    ],
+    "target": "num",
+    "model_path": "C:\\Users\\USER\\Desktop\\mealPlaneAPICreate\\models\\LogisticRegression_20250311_150614.joblib"
+}
